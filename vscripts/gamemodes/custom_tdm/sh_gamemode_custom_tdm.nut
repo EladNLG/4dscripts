@@ -66,7 +66,8 @@ struct {
 
 
 
-
+void function Sh_CustomTDM_Init() 
+{
 
     // Map locations
 
